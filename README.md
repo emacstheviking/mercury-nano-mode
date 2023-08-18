@@ -14,3 +14,11 @@ For me on my mac-mini that's:
     ~/.nano/mercury.nanorc
 
 
+# Error inclusion
+
+This file makes use of a utility I write called pberr, you can find that here:
+
+[https://github.com/emacstheviking/mercury-pberr]( https://github.com/emacstheviking/mercury-pberr)
+ 
+You will of course nned to buld it and install it as directed.
+
